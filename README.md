@@ -39,7 +39,10 @@ O sistema vai disponibilizar os `eventos` e todas as suas caracterìsticas inter
 + Sistema de contas a pagar do cerimonialista
 + Sistema de `checks` com notificações das tarefas do evento
 
+### Precisamos fazer a modelagem do banco de dados ...
+#### Quais seriam as tabelas?
 
+???
 
 # &nbsp;
 ##### Acho que deu pra ter uma noção do sistema, aguardo perguntas ...
